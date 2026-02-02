@@ -1,0 +1,10 @@
+# Snowflake
+.snowflake/
+config.toml
+
+# Data
+*.csv
+*.json
+
+# MacOS
+.DS_Store
